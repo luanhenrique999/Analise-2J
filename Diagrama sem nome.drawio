@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T20:27:33.815Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ediZRuas_rcC6ZOLuY2h" version="21.3.0" type="github">
+  <diagram id="l6CcyQUifCeIPiUBFWoU" name="Página-1">
+    <mxGraphModel dx="1194" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5LzQY_YZCaekN4wUFaSm-1" target="5LzQY_YZCaekN4wUFaSm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-1" value="Análise e definição de requisitos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5LzQY_YZCaekN4wUFaSm-2" target="5LzQY_YZCaekN4wUFaSm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-2" value="Projeto de sistemas e de software" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5LzQY_YZCaekN4wUFaSm-4" target="5LzQY_YZCaekN4wUFaSm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-4" value="Implementação e teste de unidade " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5LzQY_YZCaekN4wUFaSm-6" target="5LzQY_YZCaekN4wUFaSm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-6" value="Integração e teste de sistemas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5LzQY_YZCaekN4wUFaSm-8" target="5LzQY_YZCaekN4wUFaSm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LzQY_YZCaekN4wUFaSm-8" value="Operação e manutenção" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

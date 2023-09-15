@@ -1,0 +1,119 @@
+header nav ul{
+    background-image: radial-gradient(circle at 120.71% 50%, #d9f846 0, #d9e035 12.5%, #d2c426 25%, #c4a61b 37.5%, #af8612 50%, #97680c 62.5%, #814f09 75%, #6e3b08 87.5%, #5d2a07 100%);
+    padding: 2px;
+    list-style: none;
+    text-align:center;
+}
+header nav ul li{
+    display: inline;
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#ffffff;
+    font-family:Arial;
+    font-size: 1.2em;
+    padding: 5px 60px;
+    display: inline-block;
+}
+#Logotipo{
+    border-radius: 45px;
+    width: 350px;
+    height: 350px;
+}
+.titulo-principal{
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-30%,-15%);
+    font-size: 25px;
+    font-family:'Gagalin', sem serifa;
+}
+main{
+    width: 940px;
+    margin: auto;
+}
+form{
+    margin: 40px 0;
+}
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.input-padrao{
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 25px;
+    width:50%; 
+}
+.checkbox{
+    margin: 20px 0;
+}
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    transition: 1s all;
+    cursor: pointer;
+
+}
+.enviar:hover {
+    background: rgb(90, 90, 90);
+    transform: scale(1.2);
+}
+
+.copyright{
+    color:rgb(0, 0, 0);
+    font-size: 13px;
+    margin: 10px 0 0;
+}
+footer{
+    text-align: center;
+    background-image: url("");
+    padding: 10px 0;
+}
+
+body{
+    background-image: radial-gradient(circle at 114.09% 79.88%, #e8e654 0, #baad3c 25%, #847225 50%, #4e3e11 75%, #221500 100%);
+}
+html{
+    scroll-behavior: smooth;
+}
+.adicionar{
+    width: 100%;
+    padding: 5px 0;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    font-size: 12px;
+    border: none;
+    transition: 1s all;
+    cursor: pointer;
+}
+.adicionar:hover{
+    background: rgb(0, 0, 0);
+    transform: scale(1.2);
+}
+.border{
+    color:#030303;
+
+
+}
+
+
+fieldset{
+    background-color: #d2c426;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}

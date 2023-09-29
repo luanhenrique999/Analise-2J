@@ -1,5 +1,5 @@
 header nav ul{
-    background-image: radial-gradient(circle at 120.71% 50%, #d9f846 0, #d9e035 12.5%, #d2c426 25%, #c4a61b 37.5%, #af8612 50%, #97680c 62.5%, #814f09 75%, #6e3b08 87.5%, #5d2a07 100%);
+    background-image: radial-gradient(circle at 120.71% 50%, #5e5b5b 0, #4d4848 12.5%, #c9c2c2 25%, #9e9c9c 37.5%, #554c4c 50%, #5a5757 62.5%, #5a5858 75%, #4e4e4e 87.5%, #585555 100%);
     padding: 2px;
     list-style: none;
     text-align:center;
@@ -85,7 +85,7 @@ footer{
 }
 
 body{
-    background-image: radial-gradient(circle at 114.09% 79.88%, #e8e654 0, #baad3c 25%, #847225 50%, #4e3e11 75%, #221500 100%);
+    background-image: radial-gradient(circle at 114.09% 79.88%, #000000 0, #000000 25%, #000000 50%, #000000 75%, #221500 100%);
 }
 html{
     scroll-behavior: smooth;
@@ -113,7 +113,7 @@ html{
 
 
 fieldset{
-    background-color: #d2c426;
+    background-color: #000000bd;
     color: rgb(0, 0, 0);
     border-radius: 20px;
 }
